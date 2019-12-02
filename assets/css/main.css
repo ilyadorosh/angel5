@@ -2747,7 +2747,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #666;
-		border-radius: 6px;
+		border-radius: 26px;
 		border: 0;
 		color: #ffffff;
 		cursor: pointer;
